@@ -1,0 +1,7 @@
+ccxt
+schedule
+pandas
+numpy
+datetime
+
+

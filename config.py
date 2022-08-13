@@ -1,0 +1,2 @@
+FTX_API_KEY = 'Ifs7CxMLQgbaUhxZ253ojdtNWdnaeidAFrXJwDcz'
+FTX_SECRET_KEY = 'tO5-jKlXPFU4aH_5_teXxzAH85FkjSyQ-494oFvY'
